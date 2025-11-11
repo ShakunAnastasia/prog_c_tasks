@@ -1,0 +1,6 @@
+Line 1 - keep this
+Line 2 - remove if N=2
+Line 3 - keep this  
+Line 4 - remove if N=2
+Line 5 - keep this
+Line 6 - remove if N=2

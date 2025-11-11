@@ -1,0 +1,1 @@
+This is a sample text that needs to be justified properly for the task. The text should have even distribution of words across lines to create a nice looking paragraph with proper alignment on both left and right sides.

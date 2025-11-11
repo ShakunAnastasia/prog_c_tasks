@@ -1,0 +1,6 @@
+First line with text
+
+Third line after empty line
+
+Fifth line after another empty line
+Sixth line with some content

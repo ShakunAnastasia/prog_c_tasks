@@ -1,0 +1,4 @@
+Short line
+This is a medium length line
+This is a much longer line that should be centered properly
+Very long line that will be truncated to 50 characters exactly
