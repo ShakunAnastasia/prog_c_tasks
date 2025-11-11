@@ -1,0 +1,7 @@
+Line 1 - before range
+Line 2 - before range  
+Line 3 - in range (remove)
+Line 4 - in range (remove)
+Line 5 - in range (remove)
+Line 6 - after range
+Line 7 - after range

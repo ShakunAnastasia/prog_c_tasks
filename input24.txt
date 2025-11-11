@@ -1,0 +1,5 @@
+Short line
+This line has exactly sixty characters to test the display function
+Very long line that should be displayed because it has more than sixty characters in total
+Another short one
+Extremely long line that definitely exceeds the sixty character limit and should be shown in the results

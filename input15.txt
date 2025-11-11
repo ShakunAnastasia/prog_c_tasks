@@ -1,0 +1,4 @@
+I have 15 apples and 23 oranges.
+The temperature is -5 degrees.
+Calculate: 100 + 50 - 25 = 125
+Positive number: +42

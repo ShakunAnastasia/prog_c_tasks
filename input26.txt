@@ -1,0 +1,4 @@
+Binary: 01010101 10011001
+Digital: 1010 0101 1100
+Numbers: 0 and 1 are binary digits
+Test: 111000 000111

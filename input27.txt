@@ -1,0 +1,4 @@
+First line without leading space
+Second line also without space
+Third line needs space added
+Fourth line transformation

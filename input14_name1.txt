@@ -1,0 +1,4 @@
+First line from file 1
+Second line from file 1
+Third line from file 1
+Fourth line from file 1
