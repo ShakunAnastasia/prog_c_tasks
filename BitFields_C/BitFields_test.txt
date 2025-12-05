@@ -1,0 +1,5 @@
+Laptop 1000.0 USA 1 0 1
+Phone 400 China 1 1 1
+Table 30 China 0 0 0
+Pen 1 China 0 1 1
+Juice 3 Ukraine 1 1 0
