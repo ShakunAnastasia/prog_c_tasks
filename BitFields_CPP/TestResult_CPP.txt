@@ -1,0 +1,5 @@
+CPP test report
+Shop Task Completed
+Numbers Task Completed
+DateTime Task Completed
+Benchmark: Bitset=123 ms, Vector=772 ms
